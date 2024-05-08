@@ -1,0 +1,515 @@
+      .botonAzul {
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo {
+        background-color: red;
+      }
+      .botonAzul-1 {
+        position:absolute;
+        left: 50px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-1 {
+        position:absolute;
+        left: 50px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-2 {
+        position:absolute;
+        left: 80px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-2 {
+        position:absolute;
+        left: 80px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-3 {
+        position:absolute;
+        left: 110px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-3 {
+        position:absolute;
+        left: 110px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-4 {
+        position:absolute;
+        left: 140px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-4 {
+        position:absolute;
+        left: 140px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-5 {
+        position:absolute;
+        left: 170px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-5 {
+        position:absolute;
+        left: 170px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-6 {
+        position:absolute;
+        left: 200px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-6 {
+        position:absolute;
+        left: 200px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-7 {
+        position:absolute;
+        left: 230px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-7 {
+        position:absolute;
+        left: 230px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-8 {
+        position:absolute;
+        left: 260px;
+        top: 50px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-8 {
+        position:absolute;
+        left: 260px;
+        top: 50px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-9 {
+        position:absolute;
+        left: 50px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-9 {
+        position:absolute;
+        left: 50px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-10 {
+        position:absolute;
+        left: 80px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-10 {
+        position:absolute;
+        left: 80px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-11 {
+        position:absolute;
+        left: 110px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-11 {
+        position:absolute;
+        left: 110px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-12 {
+        position:absolute;
+        left: 140px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-12 {
+        position:absolute;
+        left: 140px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-13 {
+        position:absolute;
+        left: 170px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-13 {
+        position:absolute;
+        left: 170px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-14 {
+        position:absolute;
+        left: 200px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-14 {
+        position:absolute;
+        left: 200px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-15 {
+        position:absolute;
+        left: 230px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-15 {
+        position:absolute;
+        left: 230px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-16 {
+        position:absolute;
+        left: 260px;
+        top: 80px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-16 {
+        position:absolute;
+        left: 260px;
+        top: 80px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-17 {
+        position:absolute;
+        left: 50px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-17 {
+        position:absolute;
+        left: 50px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-18 {
+        position:absolute;
+        left: 80px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-18 {
+        position:absolute;
+        left: 80px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-18_5 {
+        position:absolute;
+        left: 110px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-18_5 {
+        position:absolute;
+        left: 110px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-19 {
+        position:absolute;
+        left: 140px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-19 {
+        position:absolute;
+        left: 140px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-20 {
+        position:absolute;
+        left: 170px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-20 {
+        position:absolute;
+        left: 170px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-21 {
+        position:absolute;
+        left: 200px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-21 {
+        position:absolute;
+        left: 200px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-22 {
+        position:absolute;
+        left: 230px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-22 {
+        position:absolute;
+        left: 230px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-23 {
+        position:absolute;
+        left: 260px;
+        top: 110px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-23 {
+        position:absolute;
+        left: 2600px;
+        top: 110px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-24 {
+        position:absolute;
+        left: 50px;
+        top: 140px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-24 {
+        position:absolute;
+        left: 50px;
+        top: 140px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-25 {
+        position:absolute;
+        left: 80px;
+        top: 140px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-25 {
+        position:absolute;
+        left: 80px;
+        top: 140px;
+        display: inline-block;
+        background-color: red;
+      }
+      .botonAzul-26 {
+        position:absolute;
+        left: 110px;
+        top: 140px;
+        display: inline-block;
+        background-color: blue;
+        color: white;
+      }
+      .botonRojo-26 {
+        position:absolute;
+        left: 110px;
+        top: 140px;
+        display: inline-block;
+        background-color: red;
+      }
+      *,
+      *::before,
+      *::after{
+          box-sizing: border-box;
+          text-rendering: optimizeLegibility;
+          font-kerning: auto;
+      }
+      body{
+          margin: 0;
+          padding: 0;
+          height: 100vh;
+          text-align: center;
+          background: url('https://forums.terraria.org/index.php?attachments/n-1-png.31583/');
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+      #output{
+          width: 7em;
+          font-size: 4vmin;
+          margin: 1em auto;
+          text-align: left;
+          white-space: pre;
+          letter-spacing: .125em;
+          position: relative;
+      }
+      #output::after{
+          content: '';
+          background: #29262640;
+          display: block;
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          top: 0;
+          left: 0;
+          border-radius: 100%;
+          z-index: -1;
+      }
+      #guessed span{
+          font-size: 5vmin;
+          text-decoration: line-through;
+          display: inline-block;
+          padding: .25em;
+      }
+      [type=text]{
+          opacity: 0;
+      }
+      body>h1{
+          font-size: 5vmin;
+          margin: 1em 0;
+          color: #000000;
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          text-shadow: #fbff00 .05em .05em 0;
+      }
+      body > h2{
+          font-size: 4vmin;
+          color: black;
+          line-height: 2.4;
+      }
+      h2 span{
+          line-height: 1.4;
+          display: inline-block;
+          background: #FFFFFF80;
+          white-space: pre;
+          padding: .25em;
+          border-bottom: 2px solid black;   
+      }
+      h2 span + span{
+          margin-left: .5em;
+      }
+      [data-modal]{
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 12pt;
+      }
+      [data-modal] article {
+       padding: 1em;
+      }
+      [data-modal] h1 {
+         color: #222;
+         margin: .5em 0 .5em 0;
+         font-size: 24pt;
+         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      #signup{
+          background: black;
+          color: white;
+          font-size: 25px;
+          padding: 6px;
+      }
+      #signup:hover{
+          background: rgb(255, 255, 255);
+          color: rgb(0, 0, 0);
+          font-size: 25px;
+          padding: 6px;
+          cursor: pointer;
+      }
+     
+      
+      
+
+      
+      
+      
+  

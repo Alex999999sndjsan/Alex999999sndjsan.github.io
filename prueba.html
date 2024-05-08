@@ -1,0 +1,81 @@
+<DOCTYPE html>
+    <html lang="es">
+    <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>---AHORCADO---</title>
+     <link rel="stylesheet" type="text/css" href="ahorcado.css">
+    </head>
+<body>
+
+    <audio controls autoplay loop>
+        <source src="04 - Overworld Day.mp3" type="audio/mpeg">
+      </audio>
+      
+    <h1>"Juego del ahorcado"</h1>
+    <h2>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </h2>
+
+    <div id="output"></div>
+    <input type="text" id="input" oninput="AdivinarL()" 
+    autofocus autocapitalize="off" pattern="[A-Za-z]{1}">
+
+    <div id="guessed"></div>
+    <aside data-modal="NUEVO JUEGO">
+        <span data-overlay></span>
+    </aside>
+    <aside data-modal="TU GANAS">
+        <article>
+            <section>
+                <input type="button" id="signup" data-button value="Juegar de Nuevo"
+                 onclick="NuevoJuego()">
+            </section>
+        </article>
+        <span data-overlay></span>
+    </aside>
+    <aside data-modal="TU PIERDES">
+        <article>
+            <section>
+            </section>
+        </article>
+        <span data-overlay=""></span>
+    </aside>
+<button id="miBotonA" class="botonAzul-1" onclick="cambiarColor()">A</button>
+<button id="miBotonB" class="botonAzul-2" onclick="cambiarColor2()">B</button>
+<button id="miBotonC" class="botonAzul-3" onclick="cambiarColor3()">C</button>
+<button id="miBotonD" class="botonAzul-4" onclick="cambiarColor4()">D</button>
+<button id="miBotonE" class="botonAzul-5" onclick="cambiarColor5()">E</button>
+<button id="miBotonF" class="botonAzul-6" onclick="cambiarColor6()">F</button>
+<button id="miBotonG" class="botonAzul-7" onclick="cambiarColor7()">G</button>
+<button id="miBotonH" class="botonAzul-8" onclick="cambiarColor8()">H</button>
+<button id="miBotonI" class="botonAzul-9" onclick="cambiarColor9()">I</button>
+<button id="miBotonJ" class="botonAzul-10" onclick="cambiarColor10()">J</button>
+<button id="miBotonK" class="botonAzul-11" onclick="cambiarColor11()">K</button>
+<button id="miBotonL" class="botonAzul-12" onclick="cambiarColor12()">L</button>
+<button id="miBotonM" class="botonAzul-13" onclick="cambiarColor13()">M</button>
+<button id="miBotonN" class="botonAzul-14" onclick="cambiarColor14()">N</button>
+<button id="miBotonÑ" class="botonAzul-15" onclick="cambiarColor15()">Ñ</button>
+<button id="miBotonO" class="botonAzul-16" onclick="cambiarColor16()">O</button>
+<button id="miBotonP" class="botonAzul-17" onclick="cambiarColor17()">P</button>
+<button id="miBotonQ" class="botonAzul-18" onclick="cambiarColor18()">Q</button>
+<button id="miBotonR" class="botonAzul-18_5" onclick="cambiarColor18_5()">R</button>
+<button id="miBotonS" class="botonAzul-19" onclick="cambiarColor19()">S</button>
+<button id="miBotonT" class="botonAzul-20" onclick="cambiarColor20()">T</button>
+<button id="miBotonU" class="botonAzul-21" onclick="cambiarColor21()">U</button>
+<button id="miBotonV" class="botonAzul-22" onclick="cambiarColor22()">V</button>
+<button id="miBotonW" class="botonAzul-23" onclick="cambiarColor23()">W</button>
+<button id="miBotonX" class="botonAzul-24" onclick="cambiarColor24()">X</button>
+<button id="miBotonY" class="botonAzul-25" onclick="cambiarColor25()">Y</button>
+<button id="miBotonZ" class="botonAzul-26" onclick="cambiarColor26()">Z</button>
+<script src="letras.js"></script>
+</body>
+</html>
+</DOCTYPE>
